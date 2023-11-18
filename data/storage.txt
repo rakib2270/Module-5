@@ -1,0 +1,7 @@
+admin,Rakib,rakib@gmail.com,123
+user,Prince Noman,noman@gmail.com,123
+manager,Manager,manager@gmail.com,123
+user,User1,user1@gmail.com,123
+user,User2,user2@gmail.com,123
+user,User3,user3@gmail.com,123
+user,Md Uzzol,uzzol@gmail.com,123

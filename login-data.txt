@@ -1,0 +1,16 @@
+email & password for admin
+
+Email : rakib@gmail.com
+Password : 123
+
+
+email & password for manager
+
+Email : manager01@gmail.com
+Password: 123
+
+
+email & password for user
+
+Email : noman@gmail.com
+Password : 123
